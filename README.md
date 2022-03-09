@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rus-amok
-- 👀 I’m interested in law
+- 👀 I’m interested in code and law
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me - vladimirs.danilin@gmail.com, @Vladimirys
