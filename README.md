@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rus-amok
 - 👀 I’m interested in code and law
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me - vladimirs.danilin@gmail.com, @Vladimirys
+- 🌱 I’m currently growing up in C#
+- 💞️ I’m looking for new project
+- 📫 How to reach me - vladimirs.danilin@gmail.com, https://t.me/vladimirys
 
 <!---
 Rus-amok/Rus-amok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
