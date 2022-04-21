@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rus-amok
 - 👀 I’m interested in code and law
 - 🌱 I’m currently growing up in C#
-- 💞️ I’m looking for new project
+- 💞️ I’m looking for new project as C# developer
 - 📫 How to reach me - vladimirs.danilin@gmail.com, https://t.me/vladimirys
 
 <!---
