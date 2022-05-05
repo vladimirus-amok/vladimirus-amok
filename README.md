@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vladimir
-- 👀 I’m interested in code and law
+- 👋 Hi, I’m Vladimir
+- 👀 I’m interested in developing
 - 🌱 I’m currently growing up in C# and .Net
 - 💞️ I’m looking for new project as C# developer
 - 📫 How to reach me - vladimirs.danilin@gmail.com, https://t.me/vladimirys
