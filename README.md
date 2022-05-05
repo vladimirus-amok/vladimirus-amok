@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rus-amok
+- 👋 Hi, I’m @Vladimir
 - 👀 I’m interested in code and law
-- 🌱 I’m currently growing up in C#
+- 🌱 I’m currently growing up in C# and .Net
 - 💞️ I’m looking for new project as C# developer
 - 📫 How to reach me - vladimirs.danilin@gmail.com, https://t.me/vladimirys
 
